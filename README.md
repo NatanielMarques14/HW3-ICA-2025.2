@@ -55,7 +55,9 @@ Maldição da Dimensionalidade: O desempenho reduzido do KNN evidenciou como med
 Robustez do SVM: Embora não tenha superado o modelo linear, o SVM mostrou-se muito mais robusto que o KNN, minimizando falsos positivos e negativos através da maximização da margem.
 
 ## Referências
-Kuhn, M., & Johnson, K. (2013). Applied Predictive Modeling. Springer.
-Mulas, M. (2026). Predictive Modelling Classification. Slides da disciplina, Universidade Federal do Ceará.
+* Kuhn, M., & Johnson, K. (2013). Applied Predictive Modeling. Springer.
+
+* Mulas, M. (2026). Predictive Modelling Classification. Slides da disciplina, Universidade Federal do Ceará.
+
 
 
